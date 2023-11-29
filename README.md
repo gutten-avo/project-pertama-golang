@@ -22,8 +22,10 @@ go mod tidy
 1. Create a database named project-pertama-golang.
 2. Create a table using the user.sql file.
 3. Set up your database connection in the .env file.
+```
 
-# Running the Project
+## Running the Project
 To run the project, use the following command:
-
+```bash
 go run main.go
+```
