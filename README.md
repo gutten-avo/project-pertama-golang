@@ -8,17 +8,17 @@ This is a simple back-end project using the Golang language with the Gin framewo
 
 Follow these steps to install and run the project:
 
-# Clone the repository
+### Clone the repository
 ```bash
 git clone https://github.com/gutten-avo/project-pertama-golang.git
 ```
 
-# Navigate to the project directory
+### Navigate to the project directory
 ```bash
 cd project-pertama-golang
 ```
 
-# Install dependencies
+### Install dependencies
 ```bash
 go mod tidy
 ```
